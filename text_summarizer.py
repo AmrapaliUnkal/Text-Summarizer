@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1pq7O3h7d6wQnWikbomcV0KtABfVN5_qf
 """
 import accelerate
-import learn
+import sklearn
 import py7zr
 import sentencepiece
 import transformers
