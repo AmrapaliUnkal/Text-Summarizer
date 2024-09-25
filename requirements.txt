@@ -10,4 +10,5 @@ urllib3
 streamlit
 pandas
 matplotlib
+scikit-learn
 # This is required by transformers models
