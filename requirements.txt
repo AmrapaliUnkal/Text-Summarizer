@@ -1,3 +1,13 @@
-streamlit==1.25.0
-transformers==4.30.0
-torch==2.0.0  # This is required by transformers models
+torch==2.0.0
+transformers>=4.0.0
+datasets>=1.2.0
+torch
+accelerate
+sentencepiece
+umap-learn
+py7zr
+urllib3
+streamlit
+pandas
+matplotlib
+# This is required by transformers models
